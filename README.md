@@ -1,5 +1,5 @@
 
-## \# Classify Traffic Counter Stations
+# Classify Traffic Counter Stations
 
 ##### Spring 2020
 
@@ -291,4 +291,4 @@ mapped to municipals and then those municipals get transformed into
 categorical data.
 
 ### Contact
-For more information contact (alinazarid@gmail.com)[alinazarid@gmail.com]
+For more information contact [alinazarid@gmail.com](alinazarid@gmail.com)
