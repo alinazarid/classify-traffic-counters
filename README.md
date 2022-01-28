@@ -1,7 +1,5 @@
 
-## \# Machine Learning Project {#-machine-learning-project}
-
-### Ali Nazari (This version works and it is before implementing PCA)
+## \# Classify Traffic Counter Stations
 
 ##### Spring 2020
 
@@ -35,9 +33,7 @@ Python 3.6
 ## Execution
 
 1- Clone the repository
-
 2- Create a virtual environment with the above libraries
-
 3- Run the notebook
 
 ## Data
@@ -296,4 +292,3 @@ categorical data.
 
 ### Contact
 For more information contact (alinazarid@gmail.com)[alinazarid@gmail.com]
-
