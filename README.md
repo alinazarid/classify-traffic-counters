@@ -35,7 +35,9 @@ Python 3.6
 ## Execution
 
 1- Clone the repository
+
 2- Create a virtual environment with the above libraries
+
 3- Run the notebook
 
 ## Data
